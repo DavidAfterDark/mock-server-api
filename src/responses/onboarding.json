@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "message": "string",
+  "data": {
+    "id-page": 1,
+    "key-page": "onboarding",
+    "items": [
+      {
+        "title": "Agenda fácil",
+        "description": "Consulta la disponibilidad de nuestros profesionales y reserva tu hora desde la app, sin complicaciones.",
+        "image": null
+      },
+      {
+        "title": "Servicios y más",
+        "description": "Descubre tratamientos y terapias diseñadas para tu bienestar físico, emocional y mental.",
+        "image": null
+      },
+      {
+        "title": "Beneficios exclusivos",
+        "description": "Descuentos, promociones y recompensas que puedes activar directamente desde la app.",
+        "image": null
+      }
+    ]
+  }
+}
