@@ -8,17 +8,17 @@
       {
         "title": "Agenda fácil",
         "description": "Consulta la disponibilidad de nuestros profesionales y reserva tu hora desde la app, sin complicaciones.",
-        "image": null
+        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/onboarding-1.webp"
       },
       {
         "title": "Servicios y más",
         "description": "Descubre tratamientos y terapias diseñadas para tu bienestar físico, emocional y mental.",
-        "image": null
+        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/onboarding-2.webp"
       },
       {
         "title": "Beneficios exclusivos",
         "description": "Descuentos, promociones y recompensas que puedes activar directamente desde la app.",
-        "image": null
+        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/onboarding-3.webp"
       }
     ]
   }

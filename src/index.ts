@@ -20,6 +20,9 @@ app.use((req: Request, res: Response, next: NextFunction) => {
 
 app.use(express.json());
 
+// Servir archivos estáticos desde /assets
+app.use('/assets', express.static(__dirname + '/assets'));
+
 // Routes
 app.use('/onboarding', onboardingRouter)
 
