@@ -1,22 +1,9 @@
 import express, { Request, Response, NextFunction } from 'express'
 import onboardingRouter from '@/routes/onboarding'
+import loginRouter from '@/routes/login'
 
 const app = express()
 const PORT = process.env.PORT || 3000
-
-// Middleware CORS manual
-app.use((req: Request, res: Response, next: NextFunction) => {
-  res.header('Access-Control-Allow-Origin', '*');
-  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
-  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization');
-  
-  // Manejar solicitudes preflight
-  if (req.method === 'OPTIONS') {
-    return res.sendStatus(200);
-  }
-  
-  next();
-});
 
 app.use(express.json());
 
@@ -25,6 +12,8 @@ app.use('/assets', express.static(__dirname + '/assets'));
 
 // Routes
 app.use('/onboarding', onboardingRouter)
+
+app.use('/login', loginRouter)
 
 // Welcome route
 app.get('/', (req: Request, res: Response) => {
