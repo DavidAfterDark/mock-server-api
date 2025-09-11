@@ -1,6 +1,7 @@
 import express, { Request, Response, NextFunction } from 'express'
 import onboardingRouter from '@/routes/onboarding'
 import loginRouter from '@/routes/login'
+import forgotPassword from '@/routes/forgot-password'
 
 const app = express()
 const PORT = process.env.PORT || 3000
@@ -14,6 +15,10 @@ app.use('/assets', express.static(__dirname + '/assets'));
 app.use('/onboarding', onboardingRouter)
 
 app.use('/login', loginRouter)
+
+app.use('/forgot-password', forgotPassword)
+
+app.use('/forgot-password-typ', forgotPassword)
 
 // Welcome route
 app.get('/', (req: Request, res: Response) => {
