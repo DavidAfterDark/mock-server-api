@@ -7,43 +7,43 @@
     "items": [
       {
         "title": "Tienda",
-        "icon": "shopping-cart-simple",
+        "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/shoppingCartSimple.svg",
         "type": "external",
         "url": "https://clinicaopia.cl/"
       },
       {
         "title": "Novedades",
-        "icon": "star",
+        "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/star.svg",
         "type": "internal",
         "url": "news"
       },
       {
         "title": "Sobre OPIA",
-        "icon": "building-apartment",
+        "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/buildingApartment.svg",
         "type": "internal",
         "url": "about"
       },
       {
         "title": "Nuestro Instagram",
-        "icon": "bell",
+        "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/instagram.svg",
         "type": "external",
         "url": "https://www.instagram.com/clinicaopia/"
       },
       {
         "title": "Centro de Ayuda",
-        "icon": "bell",
+        "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/chatsCircle.svg",
         "type": "internal",
         "url": "help_center"
       },
       {
         "title": "Términos y condiciones",
-        "icon": "file-text",
+        "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/fileText.svg",
         "type": "internal",
         "url": "terms_and_conditions"
       },
       {
         "title": "Políticas de Privacidad",
-        "icon": "bell",
+        "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/shield.svg",
         "type": "internal",
         "url": "privacy_policy"
       }
