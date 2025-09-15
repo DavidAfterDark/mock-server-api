@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "message": "string",
+  "data": {
+    "id-page": 1,
+    "key-page": "user",
+    "profile_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/profile-image.webp"
+  }
+}

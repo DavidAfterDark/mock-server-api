@@ -1,0 +1,52 @@
+{
+  "success": true,
+  "message": "string",
+  "data": {
+    "id-page": 1,
+    "key-page": "tab-more",
+    "items": [
+      {
+        "title": "Tienda",
+        "icon": "shopping-cart-simple",
+        "type": "external",
+        "url": "https://clinicaopia.cl/"
+      },
+      {
+        "title": "Novedades",
+        "icon": "star",
+        "type": "internal",
+        "url": "news"
+      },
+      {
+        "title": "Sobre OPIA",
+        "icon": "building-apartment",
+        "type": "internal",
+        "url": "about"
+      },
+      {
+        "title": "Nuestro Instagram",
+        "icon": "bell",
+        "type": "external",
+        "url": "https://www.instagram.com/clinicaopia/"
+      },
+      {
+        "title": "Centro de Ayuda",
+        "icon": "bell",
+        "type": "internal",
+        "url": "help_center"
+      },
+      {
+        "title": "Términos y condiciones",
+        "icon": "file-text",
+        "type": "internal",
+        "url": "terms_and_conditions"
+      },
+      {
+        "title": "Políticas de Privacidad",
+        "icon": "bell",
+        "type": "internal",
+        "url": "privacy_policy"
+      }
+    ]
+  }
+}
