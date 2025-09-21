@@ -6,6 +6,7 @@ import userRouter from '@/routes/user'
 import tabMore from '@/routes/tab-more'
 import termAndConditions from '@/routes/terms-and-conditions'
 import privacyPolicies from '@/routes/privacy-policies'
+import home from '@/routes/home'
 
 const app = express()
 const PORT = process.env.PORT || 3000
@@ -31,6 +32,8 @@ app.use('/tab-more', tabMore)
 app.use('/terms-and-conditions', termAndConditions)
 
 app.use('/privacy-policies', privacyPolicies)
+
+app.use('/home', home)
 
 // Welcome route
 app.get('/', (req: Request, res: Response) => {

@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "datos del home obtenidos correctamente",
+    "data": {
+        "id-page": 1,
+        "key-page": "home",
+        "components": [
+            {
+                "name": "highlights",
+                "data": {
+                    "highlights": {
+                        "items": [
+                            {
+                                "title": "Bienestar a tu alcance",
+                                "description": "Todo lo que necesitas en un solo lugar: agenda, tienda, servicios y más.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/2793.webp",
+                                "button": {
+                                    "title": "ver más",
+                                    "url": "https://www.mok.cl"
+                                }
+                            },
+                            {
+                                "title": "Bienestar a tu alcance",
+                                "description": "Todo lo que necesitas en un solo lugar: agenda, tienda, servicios y más.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/db22.webp",
+                                "button": {
+                                    "title": "ver más",
+                                    "url": "https://www.mok.cl"
+                                }
+                            },
+                            {
+                                "title": "Bienestar a tu alcance",
+                                "description": "Todo lo que necesitas en un solo lugar: agenda, tienda, servicios y más.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/a996.webp",
+                                "button": {
+                                    "title": "ver más",
+                                    "url": "https://www.mok.cl"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "schedule",
+                "data": {
+                    "schedule": {
+                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/29d4.webp",
+                        "title": "Agenda tu hora aquí",
+                        "description": "Reserva tu hora de forma rápida y simple.",
+                        "button": {
+                            "title": "Agendar",
+                            "url": "https://www.mok.cl"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "whatsapp_button",
+                "data": {
+                    "whatsapp_button": {
+                        "phone": "+56912345678"
+                    }
+                }
+            },
+            {
+                "name": "visit_our_store",
+                "data": {
+                    "card": {
+                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/7751.webp",
+                        "title": "Conoce más sobre nuestra tienda",
+                        "description": "Descubre productos para tu salud y bienestar."
+                    }
+                }
+            },
+            {
+                "name": "news",
+                "data": {
+                    "slider": {
+                        "title": "Novedades",
+                        "items": [
+                            {
+                                "tags": ["Etiqueta"],
+                                "date": "Octubre, 2020",
+                                "timeToRead": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "Lorem ipsum dolor sit amet 1",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más",
+                                    "id": 1
+                                }
+                            },
+                            {
+                                "tags": ["Etiqueta"],
+                                "date": "Octubre, 2020",
+                                "timeToRead": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "Lorem ipsum dolor sit amet 2",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más",
+                                    "id": 2
+                                }
+                            },
+                            {
+                                "tags": ["Etiqueta"],
+                                "date": "Octubre, 2020",
+                                "timeToRead": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "Lorem ipsum dolor sit amet 3",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más",
+                                    "id": 3
+                                }
+                            },
+                            {
+                                "tags": ["Etiqueta"],
+                                "date": "Octubre, 2020",
+                                "timeToRead": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "Lorem ipsum dolor sit amet 4",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más",
+                                    "id": 4
+                                }
+                            }
+                        ],
+                        "button": {
+                            "title": "Ver todas"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
