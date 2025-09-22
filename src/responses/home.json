@@ -153,6 +153,20 @@
                         }
                     }
                 }
+            },
+            {
+                "name": "knows_opia",
+                "data": {
+                    "card_double_imagen": {
+                        "image_front": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/18bd.webp",
+                        "image_back": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/4472.webp",
+                        "title": "Conoce OPIA",
+                        "description": "Nuestro enfoque integrativo y humano está pensado en ti.",
+                        "button": {
+                            "title": "ver más"
+                        }
+                    }
+                }
             }
         ]
     }
