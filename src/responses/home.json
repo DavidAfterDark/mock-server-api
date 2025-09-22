@@ -80,9 +80,14 @@
                         "title": "Novedades",
                         "items": [
                             {
-                                "tags": ["Etiqueta"],
+                                "tags": [
+                                    {
+                                        "title": "Etiqueta",
+                                        "outstanding": false
+                                    }
+                                ],
                                 "date": "Octubre, 2020",
-                                "timeToRead": "3 min.",
+                                "time_to_read": "3 min.",
                                 "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
                                 "title": "Lorem ipsum dolor sit amet 1",
                                 "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
@@ -92,9 +97,14 @@
                                 }
                             },
                             {
-                                "tags": ["Etiqueta"],
+                               "tags": [
+                                    {
+                                        "title": "Etiqueta",
+                                        "outstanding": false
+                                    }
+                                ],
                                 "date": "Octubre, 2020",
-                                "timeToRead": "3 min.",
+                                "time_to_read": "3 min.",
                                 "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
                                 "title": "Lorem ipsum dolor sit amet 2",
                                 "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
@@ -104,9 +114,14 @@
                                 }
                             },
                             {
-                                "tags": ["Etiqueta"],
+                                "tags": [
+                                    {
+                                        "title": "Etiqueta",
+                                        "outstanding": false
+                                    }
+                                ],
                                 "date": "Octubre, 2020",
-                                "timeToRead": "3 min.",
+                                "time_to_read": "3 min.",
                                 "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
                                 "title": "Lorem ipsum dolor sit amet 3",
                                 "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
@@ -116,9 +131,14 @@
                                 }
                             },
                             {
-                                "tags": ["Etiqueta"],
+                                "tags": [
+                                    {
+                                        "title": "Etiqueta",
+                                        "outstanding": false
+                                    }
+                                ],
                                 "date": "Octubre, 2020",
-                                "timeToRead": "3 min.",
+                                "time_to_read": "3 min.",
                                 "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
                                 "title": "Lorem ipsum dolor sit amet 4",
                                 "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
