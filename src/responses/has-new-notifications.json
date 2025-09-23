@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "id-page": 1,
+    "key-page": "has-new-notifications",
+    "has_new_notifications": true
+  }
+}

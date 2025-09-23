@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "id-page": 1,
+    "key-page": "notifications",
+    "header_title": "Notificaciones",
+    "pagination": {
+      "currentPage": 1,
+      "totalPages": 2,
+      "pageSize": 2,
+      "totalItems": 3
+    },
+    "sections": [
+      {
+        "title": "Hoy",
+        "items": [
+          {
+            "id": 1,
+            "date": "3 h",
+            "title": "¡Tu cita es hoy!",
+            "description": "Revisa los detalles con tiempo.",
+            "button": {
+              "title": "VER MÁS"
+            },
+            "url": "/notifications/1",
+            "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/notifications/4472.webp",
+            "unread": true
+          }
+        ]
+      },
+      {
+        "title": "Más reciente",
+        "items": [
+          {
+            "id": 2,
+            "date": "23 Junio, 2025",
+            "title": "Nuevo beneficio disponible para ti",
+            "description": "Revísalo y apruévalo desde la app.",
+            "button": {
+              "title": "VER MÁS"
+            },
+            "url": "/notifications/2",
+            "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/notifications/4472.webp",
+            "unread": true
+          },
+          {
+            "id": 3,
+            "date": "23 Junio, 2025",
+            "title": "Nuevo mensaje médico disponible",
+            "description": "Accede a tu perfil para leerlo.",
+            "button": {
+              "title": "VER MÁS"
+            },
+            "url": "/notifications/3",
+            "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/notifications/4472.webp",
+            "unread": true
+          }
+        ]
+      }
+    ],
+    "button": {
+      "title": "Cargar más"
+    }
+  }
+}
