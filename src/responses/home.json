@@ -66,7 +66,7 @@
             {
                 "name": "visit_our_store",
                 "data": {
-                    "card": {
+                    "card_visit_our_store": {
                         "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/7751.webp",
                         "title": "Conoce más sobre nuestra tienda",
                         "description": "Descubre productos para tu salud y bienestar."
@@ -298,6 +298,36 @@
                          "button": {
                             "title": "Ver todas"
                         }
+                    }
+                }
+            },
+            {
+                "name": "services",
+                "data": {
+                    "card_services": {
+                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/08cf.webp",
+                        "title": "Explora nuestros servicios",
+                        "description": "Áreas de atención para tu bienestar."
+                    }
+                }
+            },
+            {
+                "name": "shortcuts",
+                "data": {
+                    "shortcuts_cards": {
+                        "title": "Accede rápido a lo que necesitas",
+                        "items": [
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/chatsCircle.webp",
+                                "title": "Centro de Ayuda",
+                                "url": "help_center"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/buildingApartment.svg",
+                                "title": "Sobre Clínica OPIA",
+                                "url": "about"
+                            }
+                        ]
                     }
                 }
             }
