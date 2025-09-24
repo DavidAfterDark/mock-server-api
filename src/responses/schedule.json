@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "message": "string",
+  "data": {
+    "id-page": 1,
+    "key-page": "schedule",
+    "header_title": "Agendar",
+    "title": "Agendar hora",
+    "description": "Reserva tu hora de forma rápida y simple.",
+    "iframe_url": "https://expo.dev"
+  }
+}

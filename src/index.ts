@@ -9,6 +9,7 @@ import privacyPolicies from '@/routes/privacy-policies'
 import home from '@/routes/home'
 import hasNewNotifications from '@/routes/has-new-notifications'
 import notifications from '@/routes/notifications'
+import schedule from '@/routes/schedule'
 
 const app = express()
 const PORT = process.env.PORT || 3000
@@ -40,6 +41,8 @@ app.use('/home', home)
 app.use('/has-new-notifications', hasNewNotifications)
 
 app.use('/notifications', notifications)
+
+app.use('/schedule', schedule)
 
 // Welcome route
 app.get('/', (req: Request, res: Response) => {
