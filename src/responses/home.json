@@ -318,7 +318,7 @@
                         "title": "Accede rápido a lo que necesitas",
                         "items": [
                             {
-                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/chatsCircle.webp",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/chatsCircle.svg",
                                 "title": "Centro de Ayuda",
                                 "url": "help_center"
                             },
