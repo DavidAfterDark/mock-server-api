@@ -1,0 +1,204 @@
+{
+    "success": true,
+    "message": "datos del home obtenidos correctamente",
+    "data": {
+        "id-page": 7821254,
+        "key-page": "benefits-view",
+        "header_title": "Beneficios",
+        "components": [
+            {
+                "name": "highlights",
+                "data": {
+                    "slider_benefits": {
+                        "title": "Beneficios destacados",
+                        "items": [
+                            {
+                                "tags": [
+                                    {
+                                        "title": "10% OFF"
+                                    }
+                                ],
+                                "date": "Octubre, 2020",
+                                "time_to_read": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "10% Dcto en faciales",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más",
+                                    "id": 1
+                                },
+                                "button_qr": {
+                                    "title": "Obtener"
+                                },
+                                "qr": {
+                                    "header_title": "Beneficio QR",
+                                    "title": "10% Off en tratamientos faciales",
+                                    "qr_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/qr-vector.webp",
+                                    "footer_info": {
+                                        "title": "Información Relevante",
+                                        "items": [
+                                            "Nombre: Juanita Pérez",
+                                            "Fecha Expiración: 10/10/2025"
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "tags": [
+                                    {
+                                        "title": "10% OFF"
+                                    }
+                                ],
+                                "date": "Octubre, 2020",
+                                "time_to_read": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "20% Dcto en faciales",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más",
+                                    "id": 2
+                                },
+                                "button_qr": {
+                                    "title": "Obtener"
+                                },
+                                "qr": {
+                                    "header_title": "Beneficio QR",
+                                    "title": "10% Off en tratamientos faciales",
+                                    "qr_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/qr-vector.webp",
+                                    "footer_info": {
+                                        "title": "Información Relevante",
+                                        "items": [
+                                            "Nombre: Juanita Pérez",
+                                            "Fecha Expiración: 10/10/2025"
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "tags": [
+                                    {
+                                        "title": "10% OFF"
+                                    }
+                                ],
+                                "date": "Octubre, 2020",
+                                "time_to_read": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "30% Dcto en faciales",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más",
+                                    "id": 3
+                                },
+                                "button_qr": {
+                                    "title": "Obtener"
+                                },
+                                "qr": {
+                                    "header_title": "Beneficio QR",
+                                    "title": "10% Off en tratamientos faciales",
+                                    "qr_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/qr-vector.webp",
+                                    "footer_info": {
+                                        "title": "Información Relevante",
+                                        "items": [
+                                            "Nombre: Juanita Pérez",
+                                            "Fecha Expiración: 10/10/2025"
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "tags": [
+                                    {
+                                        "title": "10% OFF"
+                                    }
+                                ],
+                                "date": "Octubre, 2020",
+                                "time_to_read": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "40% Descuento en faciales",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más",
+                                    "id": 4
+                                },
+                                "button_qr": {
+                                    "title": "Obtener"
+                                },
+                                "qr": {
+                                    "header_title": "Beneficio QR",
+                                    "title": "10% Off en tratamientos faciales",
+                                    "qr_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/qr-vector.webp",
+                                    "footer_info": {
+                                        "title": "Información Relevante",
+                                        "items": [
+                                            "Nombre: Juanita Pérez",
+                                            "Fecha Expiración: 10/10/2025"
+                                        ]
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "filters",
+                "data": {
+                    "filters": {
+                        "title": "Todos los beneficios",
+                        "modal_title": "Filtros",
+                        "modal_filters": {
+                            "categories": {
+                                "title": "Categorías",
+                                "query_name": "category",
+                                "items": [
+                                    {
+                                        "value": "salud",
+                                        "title": "Salud"
+                                    },
+                                    {
+                                        "value": "belleza",
+                                        "title": "Belleza"
+                                    },
+                                    {
+                                        "value": "deporte",
+                                        "title": "Deporte"
+                                    },
+                                    {
+                                        "value": "technology",
+                                        "title": "Tecnología"
+                                    },
+                                    {
+                                        "value": "hogar",
+                                        "title": "Hogar"
+                                    },
+                                    {
+                                        "value": "mascotas",
+                                        "title": "Mascotas"
+                                    }
+                                ]
+                            },
+                            "sort_by": {
+                                "title": "Ordenar por",
+                                "query_name": "sort_by",
+                                "items": [
+                                    {
+                                        "value": "asc",
+                                        "title": "A-Z"
+                                    },
+                                    {
+                                        "value": "desc",
+                                        "title": "Z-A"
+                                    }
+                                ]
+                            }
+                        },
+                        "search": {
+                            "placeholder": "Buscar",
+                            "query_name": "search"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
