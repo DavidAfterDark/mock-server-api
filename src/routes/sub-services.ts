@@ -4,7 +4,7 @@ import response from '@/responses/sub-services.json'
 const router = Router()
 
 router.get('/:id', (req, res) => {
-  const { id } = req.query
+  const { id } = req.params
 
   console.log('[sub-services][id]:', id)
 
