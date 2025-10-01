@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "string",
+  "data": {
+    "id-page": 84864,
+    "key-page": "services-view",
+    "header_title": "Servicios",
+    "header_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/765e.webp",
+    "title": "Explora nuestros servicios",
+    "subtitle": "Explora",
+    "services": [
+      {
+        "id": 1,
+        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/stethoscope.svg",
+        "title": "Especialidades Médicas",
+        "url": "sub-services"
+      },
+      {
+        "id": 2,
+        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/syringe.svg",
+        "title": "Tratamientos Estéticos",
+        "url": "sub-services"
+      },
+      {
+        "id": 3,
+        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/flask.svg",
+        "title": "Cosmetología",
+        "url": "sub-services"
+      }
+    ]
+  }
+}
