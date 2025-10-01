@@ -198,6 +198,9 @@
                         }
                     }
                 }
+            },
+            {
+                "name": "filters_results"
             }
         ]
     }
