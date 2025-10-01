@@ -11,19 +11,19 @@
     "services": [
       {
         "id": 1,
-        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/stethoscope.svg",
+        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/surgery.svg",
         "title": "Cirugía Plástica",
         "url": "service-list"
       },
       {
         "id": 2,
-        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/syringe.svg",
+        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/skinCare.svg",
         "title": "Dermatología",
         "url": "service-list"
       },
       {
         "id": 3,
-        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/flask.svg",
+        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/gyne.svg",
         "title": "Ginecología",
         "url": "service-list"
       }
