@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "string",
+  "data": {
+    "id-page": 84864,
+    "key-page": "sub-services-view",
+    "header_title": "Especialidades Médicas",
+    "header_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/765e.webp",
+    "title": "Especialidades Médicas",
+    "subtitle": "",
+    "services": [
+      {
+        "id": 1,
+        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/stethoscope.svg",
+        "title": "Cirugía Plástica",
+        "url": "service-list"
+      },
+      {
+        "id": 2,
+        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/syringe.svg",
+        "title": "Dermatología",
+        "url": "service-list"
+      },
+      {
+        "id": 3,
+        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/flask.svg",
+        "title": "Ginecología",
+        "url": "service-list"
+      }
+    ]
+  }
+}

@@ -13,6 +13,7 @@ import schedule from '@/routes/schedule'
 import benefits from '@/routes/benefits'
 import benefitsResults from '@/routes/benefits-results'
 import services from '@/routes/services'
+import subServices from '@/routes/sub-services'
 
 const app = express()
 const PORT = process.env.PORT || 3000
@@ -52,6 +53,8 @@ app.use('/benefits', benefits)
 app.use('/benefits-results', benefitsResults)
 
 app.use('/services', services)
+
+app.use('/sub-services/', subServices)
 
 // Welcome route
 app.get('/', (req: Request, res: Response) => {
