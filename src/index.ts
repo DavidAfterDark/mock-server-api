@@ -11,6 +11,7 @@ import hasNewNotifications from '@/routes/has-new-notifications'
 import notifications from '@/routes/notifications'
 import schedule from '@/routes/schedule'
 import benefits from '@/routes/benefits'
+import benefitsResults from '@/routes/benefits-results'
 
 const app = express()
 const PORT = process.env.PORT || 3000
@@ -46,6 +47,8 @@ app.use('/notifications', notifications)
 app.use('/schedule', schedule)
 
 app.use('/benefits', benefits)
+
+app.use('/benefits-results', benefitsResults)
 
 // Welcome route
 app.get('/', (req: Request, res: Response) => {

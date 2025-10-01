@@ -1,0 +1,156 @@
+{
+    "success": true,
+    "message": "datos del home obtenidos correctamente",
+    "data": {
+        "id-page": 7121254,
+        "key-page": "benefits-view",
+        "pagination": {
+            "currentPage": 1,
+            "totalPages": 2,
+            "pageSize": 2,
+            "totalItems": 3
+        },
+        "items": [
+            {
+                "id": 1,
+                "tags": [
+                    {
+                        "title": "10% Off"
+                    }
+                ],
+                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/740c.webp",
+                "title": "Aprovecha 10% Off en tratamientos faciales",
+                "button": {
+                    "title": "ver más"
+                },
+                "button_qr": {
+                    "title": "Obtener"
+                },
+                "qr": {
+                    "header_title": "Beneficio QR",
+                    "title": "10% Off en tratamientos faciales",
+                    "qr_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/qr-vector.webp",
+                    "footer_info": {
+                        "title": "Información Relevante",
+                        "items": [
+                            "Nombre: Juanita Pérez",
+                            "Fecha Expiración: 10/10/2025"
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "tags": [
+                    {
+                        "title": "10% Off"
+                    }
+                ],
+                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/1262.webp",
+                "title": "Aprovecha 10% Off en tratamientos faciales",
+                "button": {
+                    "title": "ver más"
+                },
+                "button_qr": {
+                    "title": "Obtener"
+                },
+                "qr": {
+                    "header_title": "Beneficio QR",
+                    "title": "10% Off en tratamientos faciales",
+                    "qr_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/qr-vector.webp",
+                    "footer_info": {
+                        "title": "Información Relevante",
+                        "items": [
+                            "Nombre: Juanita Pérez",
+                            "Fecha Expiración: 10/10/2025"
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "tags": [
+                    {
+                        "title": "10% Off"
+                    }
+                ],
+                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/a996.webp",
+                "title": "Aprovecha 10% Off en tratamientos faciales",
+                "button": {
+                    "title": "ver más"
+                },
+                "button_qr": {
+                    "title": "Obtener"
+                },
+                "qr": {
+                    "header_title": "Beneficio QR",
+                    "title": "10% Off en tratamientos faciales",
+                    "qr_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/qr-vector.webp",
+                    "footer_info": {
+                        "title": "Información Relevante",
+                        "items": [
+                            "Nombre: Juanita Pérez",
+                            "Fecha Expiración: 10/10/2025"
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 4,
+                "tags": [
+                    {
+                        "title": "10% Off"
+                    }
+                ],
+                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/4a52.webp",
+                "title": "Aprovecha 10% Off en tratamientos faciales",
+                "button": {
+                    "title": "ver más"
+                },
+                "button_qr": {
+                    "title": "Obtener"
+                },
+                "qr": {
+                    "header_title": "Beneficio QR",
+                    "title": "10% Off en tratamientos faciales",
+                    "qr_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/qr-vector.webp",
+                    "footer_info": {
+                        "title": "Información Relevante",
+                        "items": [
+                            "Nombre: Juanita Pérez",
+                            "Fecha Expiración: 10/10/2025"
+                        ]
+                    }
+                }
+            },
+            {
+                "id": 5,
+                "tags": [
+                    {
+                        "title": "10% Off"
+                    }
+                ],
+                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/740c.webp",
+                "title": "Aprovecha 10% Off en tratamientos faciales",
+                "button": {
+                    "title": "ver más"
+                },
+                "button_qr": {
+                    "title": "Obtener"
+                },
+                "qr": {
+                    "header_title": "Beneficio QR",
+                    "title": "10% Off en tratamientos faciales",
+                    "qr_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/qr-vector.webp",
+                    "footer_info": {
+                        "title": "Información Relevante",
+                        "items": [
+                            "Nombre: Juanita Pérez",
+                            "Fecha Expiración: 10/10/2025"
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}
