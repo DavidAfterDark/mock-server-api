@@ -204,7 +204,7 @@
             }
         ],
         "empty_state": {
-            "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/magnifyingGlass.webp",
+            "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/magnifyingGlass.svg",
             "title": "No encontramos resultados para tu búsqueda",
             "description": "Prueba cambiando los filtros o revisa nuestras especialidades para descubrir otros servicios.",
             "button": {
