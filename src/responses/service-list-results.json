@@ -1,6 +1,6 @@
 {
     "success": true,
-    "message": "datos del home obtenidos correctamente",
+    "message": "datos del service-list-results obtenidos correctamente",
     "data": {
         "id-page": 7121254,
         "key-page": "service-list-results",
