@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "message": "datos de search obtenidos correctamente",
+    "data": {
+        "id-page": 792978054,
+        "key-page": "search",
+        "header_title": "Buscar",
+        "search_input": {
+            "placeholder": "Buscar productos o especialidades..."
+        },
+        "recent_searches": {
+            "title": "Búsquedas recientes"
+        }
+    }
+}
