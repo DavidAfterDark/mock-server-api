@@ -1,5 +1,5 @@
 import { Router } from 'express'
-import response from '@/responses/terms-and-conditions.json'
+import response from '@/responses/search.json'
 
 const router = Router()
 
