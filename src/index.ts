@@ -17,6 +17,7 @@ import subServices from '@/routes/sub-services'
 import serviceList from '@/routes/service-list'
 import serviceListResults from '@/routes/service-list-results'
 import search from '@/routes/search'
+import searchResults from '@/routes/search-results'
 
 const app = express()
 const PORT = process.env.PORT || 3000
@@ -64,6 +65,8 @@ app.use('/service-list', serviceList)
 app.use('/service-list-results', serviceListResults)
 
 app.use('/search', search)
+
+app.use('/search-results', searchResults)
 
 // Welcome route
 app.get('/', (req: Request, res: Response) => {

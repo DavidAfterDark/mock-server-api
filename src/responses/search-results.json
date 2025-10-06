@@ -1,0 +1,64 @@
+{
+    "success": true,
+    "message": "datos de search obtenidos correctamente",
+    "data": {
+        "id-page": 792978054,
+        "key-page": "search",
+        "header_title": "Buscar",
+        "pagination": {
+            "currentPage": 1,
+            "totalPages": 2,
+            "pageSize": 2,
+            "totalItems": 3
+        },
+        "items": [
+            {
+                "id": 1,
+                "date": "23 Junio, 2025",
+                "title": "Lorem ipsum dolor sit amet.",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "button": {
+                    "title": "ver más"
+                },
+                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/655e.webp",
+                "url": "/new"
+            },
+            {
+                "id": 2,
+                "date": "24 Junio, 2025",
+                "title": "Lorem ipsum dolor sit amet.",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "button": {
+                    "title": "ver más"
+                },
+                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/b430.webp",
+                "url": "/new"
+            },
+            {
+                "id": 3,
+                "date": "25 Junio, 2025",
+                "title": "Lorem ipsum dolor sit amet.",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "button": {
+                    "title": "ver más"
+                },
+                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/9fb1.webp",
+                "url": "/new"
+            },
+            {
+                "id": 4,
+                "date": "25 Junio, 2025",
+                "title": "Lorem ipsum dolor sit amet.",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "button": {
+                    "title": "ver más"
+                },
+                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/9fb1.webp",
+                "url": "/new"
+            }
+        ],
+        "button": {
+            "title":"cargar más"
+        }
+    }
+}
