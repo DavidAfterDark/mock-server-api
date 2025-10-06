@@ -10,6 +10,17 @@
         },
         "recent_searches": {
             "title": "Búsquedas recientes"
+        },
+        "suggested_searches": {
+            "title": "Búsquedas sugeridas",
+            "items": [
+                "Cardiología",
+                "Dermatología",
+                "Pediatría",
+                "Ginecología",
+                "Neurología",
+                "Odontología"
+            ]
         }
     }
 }
