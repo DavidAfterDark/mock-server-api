@@ -15,13 +15,13 @@
         "title": "Novedades",
         "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/star.svg",
         "type": "internal",
-        "url": "news"
+        "url": "/news"
       },
       {
         "title": "Sobre OPIA",
         "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/buildingApartment.svg",
         "type": "internal",
-        "url": "about"
+        "url": "/about"
       },
       {
         "title": "Nuestro Instagram",
@@ -33,19 +33,19 @@
         "title": "Centro de Ayuda",
         "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/chatsCircle.svg",
         "type": "internal",
-        "url": "help_center"
+        "url": "/help_center"
       },
       {
         "title": "Términos y condiciones",
         "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/fileText.svg",
         "type": "internal",
-        "url": "terms_and_conditions"
+        "url": "/terms_and_conditions"
       },
       {
         "title": "Políticas de Privacidad",
         "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/shield.svg",
         "type": "internal",
-        "url": "privacy_policy"
+        "url": "/privacy_policy"
       }
     ]
   }
