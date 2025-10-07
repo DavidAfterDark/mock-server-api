@@ -1,0 +1,155 @@
+{
+    "success": true,
+    "message": "datos de noticias obtenidos correctamente",
+    "data": {
+        "id-page": 7821254,
+        "key-page": "news-view",
+        "header_title": "Noticias",
+        "components": [
+            {
+                "name": "highlights",
+                "data": {
+                    "slider_benefits": {
+                        "title": "Noticias destacadas",
+                        "items": [
+                            {
+                                "id": 1,
+                                "tags": [
+                                    {
+                                        "title": "Etiqueta"
+                                    }
+                                ],
+                                "date": "Octubre, 2020",
+                                "time_to_read": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "Lorem ipsum dolor sit amet 1",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más"
+                                }
+                            },
+                            {
+                                "id": 2,
+                                "tags": [
+                                    {
+                                        "title": "Etiqueta"
+                                    }
+                                ],
+                                "date": "Octubre, 2020",
+                                "time_to_read": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "Lorem ipsum dolor sit amet 1",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más"
+                                }
+                            },
+                            {
+                                "id": 3,
+                                "tags": [
+                                    {
+                                        "title": "Etiqueta"
+                                    }
+                                ],
+                                "date": "Octubre, 2020",
+                                "time_to_read": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "Lorem ipsum dolor sit amet 1",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más"
+                                }
+                            },
+                            {
+                                "id": 4,
+                                "tags": [
+                                    {
+                                        "title": "Etiqueta"
+                                    }
+                                ],
+                                "date": "Octubre, 2020",
+                                "time_to_read": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "Lorem ipsum dolor sit amet 1",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "filters",
+                "data": {
+                    "filters": {
+                        "title": "Todos los beneficios",
+                        "modal_title": "Filtros",
+                        "modal_filters": {
+                            "categories": {
+                                "title": "Categorías",
+                                "query_name": "category",
+                                "items": [
+                                    {
+                                        "value": "salud",
+                                        "title": "Salud"
+                                    },
+                                    {
+                                        "value": "belleza",
+                                        "title": "Belleza"
+                                    },
+                                    {
+                                        "value": "deporte",
+                                        "title": "Deporte"
+                                    },
+                                    {
+                                        "value": "technology",
+                                        "title": "Tecnología"
+                                    },
+                                    {
+                                        "value": "hogar",
+                                        "title": "Hogar"
+                                    },
+                                    {
+                                        "value": "mascotas",
+                                        "title": "Mascotas"
+                                    }
+                                ]
+                            },
+                            "sort_by": {
+                                "title": "Ordenar por",
+                                "query_name": "sort_by",
+                                "items": [
+                                    {
+                                        "value": "asc",
+                                        "title": "A-Z"
+                                    },
+                                    {
+                                        "value": "desc",
+                                        "title": "Z-A"
+                                    }
+                                ]
+                            }
+                        },
+                        "search": {
+                            "placeholder": "Buscar",
+                            "query_name": "search"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "filters_results"
+            }
+        ],
+        "empty_state": {
+            "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/magnifyingGlass.svg",
+            "title": "No encontramos resultados para tu búsqueda",
+            "description": "Prueba cambiando los filtros o revisa nuestras especialidades para descubrir otros servicios.",
+            "button": {
+                "title": "Limpiar búsqueda"
+            }
+        }
+    }
+}
