@@ -9,7 +9,7 @@
             {
                 "name": "highlights",
                 "data": {
-                    "slider_benefits": {
+                    "slider_news": {
                         "title": "Noticias destacadas",
                         "items": [
                             {
@@ -21,7 +21,7 @@
                                 ],
                                 "date": "Octubre, 2020",
                                 "time_to_read": "3 min.",
-                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/dd94.webp",
                                 "title": "Lorem ipsum dolor sit amet 1",
                                 "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
                                 "button": {
@@ -37,7 +37,7 @@
                                 ],
                                 "date": "Octubre, 2020",
                                 "time_to_read": "3 min.",
-                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/962e.webp",
                                 "title": "Lorem ipsum dolor sit amet 1",
                                 "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
                                 "button": {
@@ -53,7 +53,7 @@
                                 ],
                                 "date": "Octubre, 2020",
                                 "time_to_read": "3 min.",
-                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/740c.webp",
                                 "title": "Lorem ipsum dolor sit amet 1",
                                 "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
                                 "button": {
@@ -69,7 +69,7 @@
                                 ],
                                 "date": "Octubre, 2020",
                                 "time_to_read": "3 min.",
-                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/b2be.webp",
                                 "title": "Lorem ipsum dolor sit amet 1",
                                 "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
                                 "button": {
