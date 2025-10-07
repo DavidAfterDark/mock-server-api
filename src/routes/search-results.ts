@@ -4,9 +4,9 @@ import response from '@/responses/search-results.json'
 const router = Router()
 
 router.get('/', (req, res) => {
-  const { search } = req.query
+  const { search, page } = req.query
 
-  console.log('[search-results][query]:', { search })
+  console.log('[search-results][query]:', { search, page })
 
   try {
     res.json(response)

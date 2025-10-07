@@ -21,6 +21,14 @@
                 "Neurología",
                 "Odontología"
             ]
+        },
+         "button": {
+            "title":"cargar más"
+        },
+        "empty_state": {
+            "title": "No se encontraron resultados",
+            "description": "Prueba cambiando los filtros o revisa nuestras especialidades para descubrir otros servicios.",
+            "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/magnifyingGlass.svg"
         }
     }
 }
