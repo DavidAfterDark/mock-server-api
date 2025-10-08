@@ -1,0 +1,86 @@
+{
+    "success": true,
+    "message": "datos del help-center obtenidos correctamente",
+    "data": {
+        "id-page": 1,
+        "key-page": "help-center",
+        "header_title": "Centro de Ayuda",
+        "components": [
+            {
+                "name": "contact_info",
+                "contact_info": {
+                    "email": {
+                        "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/email.svg",
+                        "title": "Contacto",
+                        "email": "contacto@clinicaopia.cl"
+                    },
+                    "phone": {
+                        "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/phone.svg",
+                        "title": "Teléfono",
+                        "label_number": "+56 9 8750 2675",
+                        "number": "+56987502675"
+                    },
+                    "address": {
+                        "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/mapPin.svg",
+                        "title": "Dirección",
+                        "address": "Camino el Alba 9500, Oficina 215, Torre B Las Condes, Santiago, Chile"
+                    }
+                }
+            },
+            {
+                "name": "tabs",
+                "tabs": [
+                    {
+                        "tab_title": "Preguntas Frecuentes",
+                        "title": "Preguntas Frecuentes",
+                        "description": "Lorem ipsum dolor sit amet, consectetur.",
+                        "faq": [
+                            {
+                                "header": "Lorem ipsum dolor sit ",
+                                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit."
+                            },
+                            {
+                                "header": "So no-brainer that shoulder eye eow rehydrate",
+                                "content": "Good email us crack seat looking developing level request. Reach line emails low-hanging explore eager. Bandwagon squad view best best chime stakeholder hop. Moving thought cause submit commitment fit message. Silently deliverables and stronger monday principles."
+                            },
+                            {
+                                "header": "So no-brainer that shoulder eye eow rehydrate",
+                                "content": "Good email us crack seat looking developing level request. Reach line emails low-hanging explore eager. Bandwagon squad view best best chime stakeholder hop. Moving thought cause submit commitment fit message. Silently deliverables and stronger monday principles."
+                            },
+                            {
+                                "header": "So no-brainer that shoulder eye eow rehydrate",
+                                "content": "Good email us crack seat looking developing level request. Reach line emails low-hanging explore eager. Bandwagon squad view best best chime stakeholder hop. Moving thought cause submit commitment fit message. Silently deliverables and stronger monday principles."
+                            }
+                        ]
+                    },
+                    {
+                        "tab_title": "Contacto",
+                        "title": "Contacto",
+                        "description": "Lorem ipsum dolor sit amet, consectetur.",
+                        "form": {
+                            "name_field": {
+                                "label": "Nombre",
+                                "placeholder": "Ingrese su nombre"
+                            },
+                            "lastname_field": {
+                                "label": "Apellido",
+                                "placeholder": "Ingrese su apellido"
+                            },
+                            "email_field": {
+                                "label": "E-mail",
+                                "placeholder": "Ingrese tu email"
+                            },
+                            "message_field": {
+                                "label": "Mensaje",
+                                "placeholder": "Escribe tu mensaje..."
+                            },
+                            "submit_button": {
+                                "title": "Enviar"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
