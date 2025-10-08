@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "message": "datos del help-center-typ obtenidos correctamente",
+    "data": {
+        "id-page": 1,
+        "key-page": "help-center",
+        "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/send.svg",
+        "title": "Mensaje enviado",
+        "description": "Nos contactaremos a la brevedad",
+        "button": {
+            "title": "volver al inicio"
+        }
+    }
+}
