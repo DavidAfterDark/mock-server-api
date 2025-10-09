@@ -4,7 +4,7 @@
     "data": {
         "id-page": 7821254,
         "key-page": "benefits-view",
-        "header_title": "Beneficios",
+        "page-title": "Beneficios",
         "components": [
             {
                 "name": "highlights",

@@ -2,8 +2,6 @@
     "success": true,
     "message": "datos del home obtenidos correctamente",
     "data": {
-        "id-page": 7121254,
-        "key-page": "benefits-view",
         "pagination": {
             "currentPage": 1,
             "totalPages": 2,
