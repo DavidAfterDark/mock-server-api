@@ -1,0 +1,207 @@
+{
+    "success": true,
+    "message": "datos de noticia obtenidos correctamente",
+    "data": {
+        "id-page": 7821254,
+        "key-page": "news-single-view",
+        "page-title": "Interior Noticia",
+        "components": [
+            {
+                "name": "hero",
+                "data": {
+                    "hero": {
+                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/2f12.webp",
+                        "date": "12 de Octubre, 2023",
+                        "reading_time": "3 min",
+                        "title": "Noticias destacadas",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet.",
+                        "share_button": {
+                            "title": "Compartir",
+                            "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/share.svg"
+                        },
+                        "share_url": "opia://news-single/1"
+                    }
+                }
+            },
+            {
+                "name": "list_doctors",
+                "data": {
+                    "list_doctors": {
+                        "title": "Doctores consultados",
+                        "description": "5 doctores colaboraron en esta noticia",
+                        "items": [
+                            {
+                                "name": "Dra. María Pérez",
+                                "specialty": "Cardióloga",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/profile-image.webp"
+                            },
+                            {
+                                "name": "Dr. Juan Gómez",
+                                "specialty": "Neurólogo",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/profile-image.webp"
+                            },
+                            {
+                                "name": "Dra. Laura Martínez",
+                                "specialty": "Pediatra",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/profile-image.webp"
+                            },
+                            {
+                                "name": "Dr. Carlos López",
+                                "specialty": "Dermatólogo",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/profile-image.webp"
+                            },
+                            {
+                                "name": "Dra. Ana Rodríguez",
+                                "specialty": "Ginecóloga",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/profile-image.webp"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "text_content",
+                "data": {
+                    "text_content": {
+                        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elemen.",
+                        "button": {
+                            "title": "Agendar (opcional)",
+                            "url": "/schedule"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "gallery",
+                "data": {
+                    "gallery": {
+                        "title": "Galería de imagenes (opcional)",
+                        "items": [
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/7145.webp"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/db22.webp"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/8f70.webp"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/e198.webp"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/7145.webp"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/db22.webp"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "video",
+                "data": {
+                    "video": {
+                        "title": "Video (opcional)",
+                        "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                    }
+                }
+            },
+            {
+                "name": "links",
+                "data": {
+                    "links": [
+                        {
+                            "title": "Lorem ipsum dolor sit amet",
+                            "url": "https://www.google.com"
+                        },
+                        {
+                            "title": "Lorem ipsum dolor sit amet",
+                            "url": "https://www.bing.com"
+                        },
+                        {
+                            "title": "Lorem ipsum dolor sit amet",
+                            "url": "https://www.yahoo.com"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "related_news",
+                "data": {
+                    "slider_news": {
+                        "title": "Novedades",
+                        "items": [
+                            {
+                                "tags": [
+                                    {
+                                        "title": "Etiqueta"
+                                    }
+                                ],
+                                "date": "Octubre, 2020",
+                                "time_to_read": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "Lorem ipsum dolor sit amet 1",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más",
+                                    "id": 1
+                                }
+                            },
+                            {
+                               "tags": [
+                                    {
+                                        "title": "Etiqueta"
+                                    }
+                                ],
+                                "date": "Octubre, 2020",
+                                "time_to_read": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "Lorem ipsum dolor sit amet 2",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más",
+                                    "id": 2
+                                }
+                            },
+                            {
+                                "tags": [
+                                    {
+                                        "title": "Etiqueta"
+                                    }
+                                ],
+                                "date": "Octubre, 2020",
+                                "time_to_read": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "Lorem ipsum dolor sit amet 3",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más",
+                                    "id": 3
+                                }
+                            },
+                            {
+                                "tags": [
+                                    {
+                                        "title": "Etiqueta"
+                                    }
+                                ],
+                                "date": "Octubre, 2020",
+                                "time_to_read": "3 min.",
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/dd94.webp",
+                                "title": "Lorem ipsum dolor sit amet 4",
+                                "description": "Justo in magna elit aliquam semper tempor sapien. Molestie ornare morbi felis congue duis ultrices sed feugiat blandit.",
+                                "button": {
+                                    "title": "ver más",
+                                    "id": 4
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}
