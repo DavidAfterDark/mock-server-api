@@ -2,6 +2,7 @@ import express, { Request, Response, NextFunction } from 'express'
 import onboardingRouter from '@/routes/onboarding'
 import loginRouter from '@/routes/login'
 import forgotPassword from '@/routes/forgot-password'
+import forgotPasswordTyp from '@/routes/forgot-password-typ'
 import userRouter from '@/routes/user'
 import tabMore from '@/routes/tab-more'
 import termAndConditions from '@/routes/terms-and-conditions'
@@ -39,7 +40,7 @@ app.use('/login', loginRouter)
 
 app.use('/forgot-password', forgotPassword)
 
-app.use('/forgot-password-typ', forgotPassword)
+app.use('/forgot-password-typ', forgotPasswordTyp)
 
 app.use('/user', userRouter)
 
