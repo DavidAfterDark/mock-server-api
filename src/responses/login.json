@@ -4,9 +4,16 @@
   "data": {
     "id-page": 1,
     "key-page": "login",
-    "title": "Agenda fácil",
-    "description": "Descubre productos para tu salud y bienestar. ",
-    "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/544e.webp",
-    "url": "https://clinicaopia.cl/"
+    "components": [
+      {
+        "name": "external_link_card",
+        "data": {
+          "title": "Agenda fácil",
+          "description": "Descubre productos para tu salud y bienestar. ",
+          "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/544e.webp",
+          "url": "https://clinicaopia.cl/"
+        }
+      }
+    ]
   }
 }
