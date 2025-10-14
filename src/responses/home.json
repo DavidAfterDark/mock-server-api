@@ -4,6 +4,7 @@
     "data": {
         "id-page": 1,
         "key-page": "home",
+        "page-title": "Home",
         "components": [
             {
                 "name": "highlights",
