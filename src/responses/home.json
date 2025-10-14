@@ -172,6 +172,7 @@
                         "title": "Beneficios destacados",
                         "items": [
                             {
+                                "id": 1,
                                 "tags": [
                                     {
                                         "title": "10% OFF"
@@ -203,6 +204,7 @@
                                 }
                             },
                             {
+                                "id": 2,
                                "tags": [
                                     {
                                         "title": "10% OFF"
@@ -234,6 +236,7 @@
                                 }
                             },
                             {
+                                "id": 3,
                                 "tags": [
                                     {
                                         "title": "10% OFF"
@@ -265,6 +268,7 @@
                                 }
                             },
                             {
+                                "id": 4,
                                 "tags": [
                                     {
                                         "title": "10% OFF"
