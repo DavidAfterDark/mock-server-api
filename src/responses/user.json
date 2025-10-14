@@ -2,8 +2,12 @@
   "success": true,
   "message": "string",
   "data": {
-    "id-page": 1,
-    "key-page": "user",
-    "profile_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/profile-image.webp"
+    "profile_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/profile-image.webp",
+    "name": "Dominga",
+    "lastname": "Pérez",
+    "birthdate": "01/01/1990",
+    "phone": "+56912345678",
+    "email": "email@example.com",
+    "rut_passport": "12.345.678-9"
   }
 }

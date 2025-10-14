@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "message": "string",
+  "data": {
+    "id-page": 1,
+    "key-page": "profile-view",
+    "page-title": "Mi Perfil",
+    "components": [
+      {
+        "name": "sections",
+        "data": {
+          "sections": [
+            {
+              "title": "Mis tratamientos",
+              "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/syringe.svg",
+              "url": "/my-treatments"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
