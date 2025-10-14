@@ -1,0 +1,194 @@
+{
+    "success": true,
+    "message": "datos de noticia obtenidos correctamente",
+    "data": {
+        "id-page": 7821254,
+        "key-page": "benefits-single-view",
+        "page-title": "Interior Beneficio",
+        "components": [
+            {
+                "name": "hero",
+                "data": {
+                    "hero": {
+                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/2f12.webp",
+                        "date": "",
+                        "reading_time": "",
+                        "title": "Aprovecha 10% Off en tratamientos faciales",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet.",
+                        "share_button": {
+                            "title": "Compartir",
+                            "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/share.svg"
+                        },
+                        "share_url": "opia://news-single/1"
+                    }
+                }
+            },
+            {
+                "name": "text_content",
+                "data": {
+                    "text_content": {
+                        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elemen.",
+                        "button": {
+                            "title": "Obtener beneficio",
+                            "url": ""
+                        }
+                    }
+                }
+            },
+            {
+                "name": "gallery",
+                "data": {
+                    "gallery": {
+                        "title": "Galería de imagenes (opcional)",
+                        "items": [
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/7145.webp"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/db22.webp"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/8f70.webp"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/e198.webp"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/7145.webp"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/db22.webp"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "video",
+                "data": {
+                    "video": {
+                        "title": "Video (opcional)",
+                        "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                    }
+                }
+            },
+            {
+                "name": "links_interest",
+                "data": {
+                    "links_interest": {
+                        "title": "Links de interés",
+                        "items": [
+                            {
+                                "title": "Lorem ipsum dolor sit amet",
+                                "url": "https://www.google.com"
+                            },
+                            {
+                                "title": "Lorem ipsum dolor sit amet",
+                                "url": "https://www.bing.com"
+                            },
+                            {
+                                "title": "Lorem ipsum dolor sit amet",
+                                "url": "https://www.yahoo.com"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "related_benefits",
+                "data": {
+                    "slider_benefits": {
+                        "title": "Otros beneficios",
+                        "items": [
+                            {
+                                "id": 1,
+                                "tags": [
+                                    {
+                                        "title": "10% Off"
+                                    }
+                                ],
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/740c.webp",
+                                "title": "Aprovecha 10% Off en tratamientos faciales",
+                                "button": {
+                                    "title": "ver más"
+                                },
+                                "button_qr": {
+                                    "title": "Obtener"
+                                },
+                                "qr": {
+                                    "header_title": "Beneficio QR",
+                                    "title": "10% Off en tratamientos faciales",
+                                    "qr_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/qr-vector.webp",
+                                    "footer_info": {
+                                        "title": "Información Relevante",
+                                        "items": [
+                                            "Nombre: Juanita Pérez",
+                                            "Fecha Expiración: 10/10/2025"
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "id": 2,
+                                "tags": [
+                                    {
+                                        "title": "10% Off"
+                                    }
+                                ],
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/1262.webp",
+                                "title": "Aprovecha 10% Off en tratamientos faciales",
+                                "button": {
+                                    "title": "ver más"
+                                },
+                                "button_qr": {
+                                    "title": "Obtener"
+                                },
+                                "qr": {
+                                    "header_title": "Beneficio QR",
+                                    "title": "10% Off en tratamientos faciales",
+                                    "qr_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/qr-vector.webp",
+                                    "footer_info": {
+                                        "title": "Información Relevante",
+                                        "items": [
+                                            "Nombre: Juanita Pérez",
+                                            "Fecha Expiración: 10/10/2025"
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "id": 3,
+                                "tags": [
+                                    {
+                                        "title": "10% Off"
+                                    }
+                                ],
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/a996.webp",
+                                "title": "Aprovecha 10% Off en tratamientos faciales",
+                                "button": {
+                                    "title": "ver más"
+                                },
+                                "button_qr": {
+                                    "title": "Obtener"
+                                },
+                                "qr": {
+                                    "header_title": "Beneficio QR",
+                                    "title": "10% Off en tratamientos faciales",
+                                    "qr_image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/qr-vector.webp",
+                                    "footer_info": {
+                                        "title": "Información Relevante",
+                                        "items": [
+                                            "Nombre: Juanita Pérez",
+                                            "Fecha Expiración: 10/10/2025"
+                                        ]
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}
