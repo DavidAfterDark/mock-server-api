@@ -110,29 +110,33 @@
                 }
             },
             {
-                "name": "links",
+                "name": "links_interest",
                 "data": {
-                    "links": [
-                        {
-                            "title": "Lorem ipsum dolor sit amet",
-                            "url": "https://www.google.com"
-                        },
-                        {
-                            "title": "Lorem ipsum dolor sit amet",
-                            "url": "https://www.bing.com"
-                        },
-                        {
-                            "title": "Lorem ipsum dolor sit amet",
-                            "url": "https://www.yahoo.com"
-                        }
-                    ]
+                    "links_interest": {
+                        "title": "Links de interés",
+                        "items": [
+
+                            {
+                                "title": "Lorem ipsum dolor sit amet",
+                                "url": "https://www.google.com"
+                            },
+                            {
+                                "title": "Lorem ipsum dolor sit amet",
+                                "url": "https://www.bing.com"
+                            },
+                            {
+                                "title": "Lorem ipsum dolor sit amet",
+                                "url": "https://www.yahoo.com"
+                            }
+                        ]
+                    }
                 }
             },
             {
                 "name": "related_news",
                 "data": {
                     "slider_news": {
-                        "title": "Novedades",
+                        "title": "Otras noticias",
                         "items": [
                             {
                                 "tags": [
