@@ -4,6 +4,10 @@ import response from '@/responses/benefits-results.json'
 const router = Router()
 
 router.get('/', (req, res) => {
+  const { page, categories, sortBy, search } = req.query
+
+  console.log('[benefits-results][query]:', { page, categories, sortBy, search })
+
   try {
     res.json(response)
   } catch (error) {
