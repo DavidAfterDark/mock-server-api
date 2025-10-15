@@ -1,0 +1,90 @@
+{
+    "success": true,
+    "message": "datos del home obtenidos correctamente",
+    "data": {
+        "id-page": 7821254,
+        "key-page": "my-treatments",
+        "page-title": "Mis Tratamientos",
+        "components": [
+            {
+                "name": "header",
+                "data": {
+                    "header": {
+                        "title": "Beneficios destacados",
+                        "description": "Conoce todos tus tratamientos aquí."
+                    }
+                }
+            },
+            {
+                "name": "filters",
+                "data": {
+                    "filters": {
+                        "title": "Todos los beneficios",
+                        "modal_title": "Filtros",
+                        "modal_filters": {
+                            "categories": {
+                                "title": "Categorías",
+                                "query_name": "category",
+                                "items": [
+                                    {
+                                        "value": "salud",
+                                        "title": "Salud"
+                                    },
+                                    {
+                                        "value": "belleza",
+                                        "title": "Belleza"
+                                    },
+                                    {
+                                        "value": "deporte",
+                                        "title": "Deporte"
+                                    },
+                                    {
+                                        "value": "technology",
+                                        "title": "Tecnología"
+                                    },
+                                    {
+                                        "value": "hogar",
+                                        "title": "Hogar"
+                                    },
+                                    {
+                                        "value": "mascotas",
+                                        "title": "Mascotas"
+                                    }
+                                ]
+                            },
+                            "sort_by": {
+                                "title": "Ordenar por",
+                                "query_name": "sort_by",
+                                "items": [
+                                    {
+                                        "value": "asc",
+                                        "title": "A-Z"
+                                    },
+                                    {
+                                        "value": "desc",
+                                        "title": "Z-A"
+                                    }
+                                ]
+                            }
+                        },
+                        "search": {
+                            "placeholder": "Buscar",
+                            "query_name": "search"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "filters_results"
+            }
+        ],
+        "empty_state": {
+            "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/magnifyingGlass.svg",
+            "title": "No encontramos resultados",
+            "description": "Prueba cambiando los filtros o revisa nuestras especialidades para descubrir otros servicios.",
+            "button": {
+                "title": "Limpiar búsqueda"
+            }
+        }
+    }
+}

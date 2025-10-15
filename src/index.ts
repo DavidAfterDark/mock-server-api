@@ -26,6 +26,7 @@ import helpCenterTyp from '@/routes/help-center-typ'
 import newsSingle from '@/routes/news-single'
 import benefitsSingle from '@/routes/benefits-single'
 import profile from '@/routes/profile'
+import myTreatments from '@/routes/my-treatments'
 
 const app = express()
 const PORT = process.env.PORT || 3000
@@ -89,6 +90,8 @@ app.use('/news-single', newsSingle)
 app.use('/benefits-single', benefitsSingle)
 
 app.use('/profile', profile)
+
+app.use('/my-treatments', myTreatments)
 
 // Welcome route
 app.get('/', (req: Request, res: Response) => {
