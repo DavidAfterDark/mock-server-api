@@ -27,12 +27,13 @@
                 ],
                 "document": {
                     "name": "Consentimiento Informado",
-                    "url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/notifications/4472.webp"
+                    "url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/sample.pdf"
                 },
                 "content": {
                     "title": "Observaciones del Especialista",
                     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus."
-                }
+                },
+                "treatment_url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/sample.pdf"
             },
             {
                 "id": 2,
@@ -52,12 +53,13 @@
                 ],
                 "document": {
                     "name": "Consentimiento Informado",
-                    "url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/notifications/4472.webp"
+                    "url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/sample.pdf"
                 },
                 "content": {
                     "title": "Observaciones del Especialista",
                     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus."
-                }
+                },
+                "treatment_url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/sample.pdf"
             },
             {
                 "id": 3,
@@ -77,12 +79,13 @@
                 ],
                 "document": {
                     "name": "Consentimiento Informado",
-                    "url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/notifications/4472.webp"
+                    "url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/sample.pdf"
                 },
                 "content": {
                     "title": "Observaciones del Especialista",
                     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus."
-                }
+                },
+                "treatment_url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/sample.pdf"
             },
             {
                 "id": 4,
@@ -102,12 +105,13 @@
                 ],
                 "document": {
                     "name": "Consentimiento Informado",
-                    "url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/notifications/4472.webp"
+                    "url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/sample.pdf"
                 },
                 "content": {
                     "title": "Observaciones del Especialista",
                     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus."
-                }
+                },
+                "treatment_url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/sample.pdf"
             },
             {
                 "id": 5,
@@ -127,12 +131,13 @@
                 ],
                 "document": {
                     "name": "Consentimiento Informado",
-                    "url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/notifications/4472.webp"
+                    "url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/sample.pdf"
                 },
                 "content": {
                     "title": "Observaciones del Especialista",
                     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus."
-                }
+                },
+                "treatment_url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/sample.pdf"
             }
         ]
     }
