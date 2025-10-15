@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "datos de mis tratamientos obtenidos correctamente",
+    "data": {
+        "pagination": {
+            "currentPage": 1,
+            "totalPages": 2,
+            "pageSize": 2,
+            "totalItems": 3
+        },
+        "items": [
+            {
+                "id": 1,
+                "date": "12/06/25",
+                "name_of_the_treatment": "Nombre Tratamiento Lorem Ipsum Dolor sit amet",
+                "specialist": "Dr. Sergio Sepulveda",
+                "images": [
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/08cf.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/18bd.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/29d4.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/2793.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/7751.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/a996.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/544e.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/7145.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/9fb1.webp"
+                ],
+                "document": {
+                    "name": "Consentimiento Informado",
+                    "url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/notifications/4472.webp"
+                },
+                "content": {
+                    "title": "Observaciones del Especialista",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus."
+                }
+            },
+            {
+                "id": 2,
+                "date": "12/06/25",
+                "name_of_the_treatment": "Nombre Tratamiento Lorem Ipsum Dolor sit amet",
+                "specialist": "Dr. Sergio Sepulveda",
+                "images": [
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/08cf.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/18bd.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/29d4.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/2793.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/7751.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/a996.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/544e.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/7145.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/9fb1.webp"
+                ],
+                "document": {
+                    "name": "Consentimiento Informado",
+                    "url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/notifications/4472.webp"
+                },
+                "content": {
+                    "title": "Observaciones del Especialista",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus."
+                }
+            },
+            {
+                "id": 3,
+                "date": "12/06/25",
+                "name_of_the_treatment": "Nombre Tratamiento Lorem Ipsum Dolor sit amet",
+                "specialist": "Dr. Sergio Sepulveda",
+                "images": [
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/08cf.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/18bd.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/29d4.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/2793.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/7751.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/a996.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/544e.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/7145.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/9fb1.webp"
+                ],
+                "document": {
+                    "name": "Consentimiento Informado",
+                    "url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/notifications/4472.webp"
+                },
+                "content": {
+                    "title": "Observaciones del Especialista",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus."
+                }
+            },
+            {
+                "id": 4,
+                "date": "12/06/25",
+                "name_of_the_treatment": "Nombre Tratamiento Lorem Ipsum Dolor sit amet",
+                "specialist": "Dr. Sergio Sepulveda",
+                "images": [
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/08cf.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/18bd.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/29d4.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/2793.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/7751.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/a996.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/544e.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/7145.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/9fb1.webp"
+                ],
+                "document": {
+                    "name": "Consentimiento Informado",
+                    "url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/notifications/4472.webp"
+                },
+                "content": {
+                    "title": "Observaciones del Especialista",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus."
+                }
+            },
+            {
+                "id": 5,
+                "date": "12/06/25",
+                "name_of_the_treatment": "Nombre Tratamiento Lorem Ipsum Dolor sit amet",
+                "specialist": "Dr. Sergio Sepulveda",
+                "images": [
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/08cf.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/18bd.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/29d4.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/2793.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/7751.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/home/a996.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/544e.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/7145.webp",
+                    "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/9fb1.webp"
+                ],
+                "document": {
+                    "name": "Consentimiento Informado",
+                    "url": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/notifications/4472.webp"
+                },
+                "content": {
+                    "title": "Observaciones del Especialista",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus."
+                }
+            }
+        ]
+    }
+}
