@@ -28,6 +28,8 @@ import benefitsSingle from '@/routes/benefits-single'
 import profile from '@/routes/profile'
 import myTreatments from '@/routes/my-treatments'
 import myTreatmentsResults from '@/routes/my-treatments-results'
+import editProfile from '@/routes/edit-profile'
+import updateEmail from '@/routes/update-email'
 
 const app = express()
 const PORT = process.env.PORT || 3000
@@ -95,6 +97,10 @@ app.use('/profile', profile)
 app.use('/my-treatments', myTreatments)
 
 app.use('/my-treatments-results', myTreatmentsResults)
+
+app.use('/edit-profile', editProfile)
+
+app.use('/update-email', updateEmail)
 
 // Welcome route
 app.get('/', (req: Request, res: Response) => {
