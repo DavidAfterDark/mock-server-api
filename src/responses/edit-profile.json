@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "message": "string",
+  "data": {
+    "page-title": "Editar Información",
+    "component": [
+      {
+        "name": "modal_update_image",
+        "data": {
+          "modal_update_image": {
+            "title": "Actualizar tu imagen",
+            "description": ""
+          }
+        }
+      },
+      {
+        "name": "modal_update_email",
+        "data": {
+          "modal_update_email": {
+            "title": "Actualizar tu correo",
+            "description": "Usaremos tu nuevo correo para enviarte notificaciones importantes sobre tus citas."
+          }
+        }
+      },
+      {
+        "name": "modal_update_password",
+        "data": {
+          "modal_update_password": {
+            "title": "Actualizar tu contraseña",
+            "description": "Por seguridad, te pediremos tu contraseña actual antes de establecer una nueva."
+          }
+        }
+      }
+    ]
+  }
+}
