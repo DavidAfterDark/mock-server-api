@@ -30,6 +30,7 @@ import myTreatments from '@/routes/my-treatments'
 import myTreatmentsResults from '@/routes/my-treatments-results'
 import editProfile from '@/routes/edit-profile'
 import updateEmail from '@/routes/update-email'
+import updatePassword from '@/routes/update-password'
 
 const app = express()
 const PORT = process.env.PORT || 3000
@@ -101,6 +102,8 @@ app.use('/my-treatments-results', myTreatmentsResults)
 app.use('/edit-profile', editProfile)
 
 app.use('/update-email', updateEmail)
+
+app.use('/update-password', updatePassword)
 
 // Welcome route
 app.get('/', (req: Request, res: Response) => {
