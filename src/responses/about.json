@@ -1,0 +1,104 @@
+{
+    "success": true,
+    "message": "datos de about obtenidos correctamente",
+    "data": {
+        "id-page": 789354104,
+        "key-page": "about-view",
+        "page-title": "Sobre Clínica OPIA",
+        "components": [
+            {
+                "name": "dropdown",
+                "data": {
+                    "dropdown": {
+                        "title": "Noticias destacadas",
+                        "items": [
+                            {
+                                "id": 1,
+                                "title": "Sobre Nosotros"
+                            },
+                            {
+                                "id": 2,
+                                "title": "Nuestros Valores"
+                            },
+                            {
+                                "id": 3,
+                                "title": "Doctores y Especialistas"
+                            },
+                            {
+                                "id": 4,
+                                "title": "Nuestro Equipo"
+                            },
+                            {
+                                "id": 5,
+                                "title": "Infraestructura"
+                            },
+                            {
+                                "id": 6,
+                                "title": "Equipamiento"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "about_us",
+                "data": {
+                    "about_us": {
+                        "title": "Sobre nosotros",
+                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/fdba.webp",
+                        "description": "Clínica OPIA nace de un grupo de profesionales de la salud con la convicción de que una persona saludable se ve naturalmente bella."
+                    }
+                }
+            },
+            {
+                "name": "our_values",
+                "data": {
+                    "our_values": {
+                        "items": [
+                            {
+                                "id": 1,
+                                "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/star.svg",
+                                "title": "Nuestra misión",
+                                "description": "Nuestra misión es ofrecer soluciones integrales y de vanguardia en medicina estética bajo los más altos estándares de calidad y profesionalismo."
+                            },
+                            {
+                                "id": 1,
+                                "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/syringe.svg",
+                                "title": "Nuestra misión 2",
+                                "description": "Nuestra misión es ofrecer soluciones integrales y de vanguardia en medicina estética bajo los más altos estándares de calidad y profesionalismo."
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "doctors_and_specialists",
+                "data": {
+                    "doctors_and_specialists": {
+                        "title": "Nuestros doctores y especialistas",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie.",
+                        "filter_tabs": [
+                            {
+                                "value": 1,
+                                "title": "Especialidad_1"
+                            },
+                            {
+                                "value": 2,
+                                "title": "Especialidad_2"
+                            },
+                            {
+                                "value": 3,
+                                "title": "Especialidad_3"
+                            },
+                            {
+                                "value": 4,
+                                "title": "Especialidad_4"
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+        
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "success": true,
+    "message": "datos de about doctors and specialists obtenidos correctamente",
+    "data": {
+        "pagination": {
+            "currentPage": 1,
+            "totalPages": 2,
+            "pageSize": 2,
+            "totalItems": 3
+        },
+        "items": [
+            {
+                "id": 1,
+                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/df7d.webp",
+                "title": "Aprovecha 10% Off en tratamientos faciales",
+                "name": "Dr. Sergio Sepulveda",
+                "specialty": "Cirujano Plástico",
+                "button": {
+                    "title": "ver más"
+                },
+                "modal_header_title": "Doctores y especialistas",
+                "schedule": [
+                    "Martes 10:40 a 15:40 hrs.",
+                    "Viernes 9:00 a 16:00 hrs."
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat ligula eget mi mattis, non fringilla massa sollicitudin. Sed laoreet magna nec posuere condimentum. Maecenas pulvinar hendrerit bibendum. Vivamus sed posuere eros, at tristique odio. Pellentesque imperdiet id nibh sed posuere. Vestibulum maximus, erat non volutpat condimentum, urna tellus rhoncus lacus, vel tristique felis metus vitae arcu. Quisque venenatis velit eu urna condimentum aliquet.",
+                "schedule_url": "schedule_url"
+            },
+            {
+                "id": 2,
+                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/0238.webp",
+                "title": "Aprovecha 10% Off en tratamientos faciales",
+                "name": "Dra. Adriana Castrillón",
+                "specialty": "Cirujano Plástico",
+                "button": {
+                    "title": "ver más"
+                },
+                "modal_header_title": "Doctores y especialistas",
+                "schedule": [
+                    "Martes 10:40 a 15:40 hrs.",
+                    "Viernes 9:00 a 16:00 hrs."
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat ligula eget mi mattis, non fringilla massa sollicitudin. Sed laoreet magna nec posuere condimentum. Maecenas pulvinar hendrerit bibendum. Vivamus sed posuere eros, at tristique odio. Pellentesque imperdiet id nibh sed posuere. Vestibulum maximus, erat non volutpat condimentum, urna tellus rhoncus lacus, vel tristique felis metus vitae arcu. Quisque venenatis velit eu urna condimentum aliquet.",
+                "schedule_url": "schedule_url"
+            },
+            {
+                "id": 3,
+                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/df7d.webp",
+                "title": "Aprovecha 10% Off en tratamientos faciales",
+                "name": "Dr. Sergio Sepulveda",
+                "specialty": "Cirujano Plástico",
+                "button": {
+                    "title": "ver más"
+                },
+                "modal_header_title": "Doctores y especialistas",
+                "schedule": [
+                    "Martes 10:40 a 15:40 hrs.",
+                    "Viernes 9:00 a 16:00 hrs."
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat ligula eget mi mattis, non fringilla massa sollicitudin. Sed laoreet magna nec posuere condimentum. Maecenas pulvinar hendrerit bibendum. Vivamus sed posuere eros, at tristique odio. Pellentesque imperdiet id nibh sed posuere. Vestibulum maximus, erat non volutpat condimentum, urna tellus rhoncus lacus, vel tristique felis metus vitae arcu. Quisque venenatis velit eu urna condimentum aliquet.",
+                "schedule_url": "schedule_url"
+            },
+            {
+                "id": 4,
+                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/0238.webp",
+                "title": "Aprovecha 10% Off en tratamientos faciales",
+                "name": "Dra. Adriana Castrillón",
+                "specialty": "Cirujano Plástico",
+                "button": {
+                    "title": "ver más"
+                },
+                "modal_header_title": "Doctores y especialistas",
+                "schedule": [
+                    "Martes 10:40 a 15:40 hrs.",
+                    "Viernes 9:00 a 16:00 hrs."
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat ligula eget mi mattis, non fringilla massa sollicitudin. Sed laoreet magna nec posuere condimentum. Maecenas pulvinar hendrerit bibendum. Vivamus sed posuere eros, at tristique odio. Pellentesque imperdiet id nibh sed posuere. Vestibulum maximus, erat non volutpat condimentum, urna tellus rhoncus lacus, vel tristique felis metus vitae arcu. Quisque venenatis velit eu urna condimentum aliquet.",
+                "schedule_url": "schedule_url"
+            },
+            {
+                "id": 5,
+                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/df7d.webp",
+                "title": "Aprovecha 10% Off en tratamientos faciales",
+                "name": "Dr. Sergio Sepulveda",
+                "specialty": "Cirujano Plástico",
+                "button": {
+                    "title": "ver más"
+                },
+                "modal_header_title": "Doctores y especialistas",
+                "schedule": [
+                    "Martes 10:40 a 15:40 hrs.",
+                    "Viernes 9:00 a 16:00 hrs."
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat ligula eget mi mattis, non fringilla massa sollicitudin. Sed laoreet magna nec posuere condimentum. Maecenas pulvinar hendrerit bibendum. Vivamus sed posuere eros, at tristique odio. Pellentesque imperdiet id nibh sed posuere. Vestibulum maximus, erat non volutpat condimentum, urna tellus rhoncus lacus, vel tristique felis metus vitae arcu. Quisque venenatis velit eu urna condimentum aliquet.",
+                "schedule_url": "schedule_url"
+            },
+            {
+                "id": 6,
+                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/df7d.webp",
+                "title": "Aprovecha 10% Off en tratamientos faciales",
+                "name": "Dr. Sergio Sepulveda",
+                "specialty": "Cirujano Plástico",
+                "button": {
+                    "title": "ver más"
+                },
+                "modal_header_title": "Doctores y especialistas",
+                "schedule": [
+                    "Martes 10:40 a 15:40 hrs.",
+                    "Viernes 9:00 a 16:00 hrs."
+                ],
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat ligula eget mi mattis, non fringilla massa sollicitudin. Sed laoreet magna nec posuere condimentum. Maecenas pulvinar hendrerit bibendum. Vivamus sed posuere eros, at tristique odio. Pellentesque imperdiet id nibh sed posuere. Vestibulum maximus, erat non volutpat condimentum, urna tellus rhoncus lacus, vel tristique felis metus vitae arcu. Quisque venenatis velit eu urna condimentum aliquet.",
+                "schedule_url": "schedule_url"
+            }
+        ]
+    }
+}

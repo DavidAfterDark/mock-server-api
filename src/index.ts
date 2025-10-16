@@ -33,6 +33,7 @@ import updateEmail from '@/routes/update-email'
 import updatePassword from '@/routes/update-password'
 import updateImage from '@/routes/update-imagen'
 import updateProfile from '@/routes/update-profile'
+import about from '@/routes/about'
 
 const app = express()
 const PORT = process.env.PORT || 3000
@@ -110,6 +111,8 @@ app.use('/update-password', updatePassword)
 app.use('/update-image-profile', updateImage)
 
 app.use('/update-profile', updateProfile)
+
+app.use('/about', about)
 
 // Welcome route
 app.get('/', (req: Request, res: Response) => {
