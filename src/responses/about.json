@@ -97,8 +97,173 @@
                         ]
                     }
                 }
+            },
+            {
+                "name": "our_team",
+                "data": {
+                    "our_team": {
+                        "title": "Nuestro equipo",
+                        "description": "Conoce más sobre nuestro equipo de profesionales",
+                        "tabs": [
+                            {
+                                "tag": "secretaries",
+                                "title": "Secretarias",
+                                "items": [
+                                    {
+                                        "id": 9,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    },
+                                    {
+                                        "id": 10,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    },
+                                    {
+                                        "id": 11,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    },
+                                    {
+                                        "id": 12,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    }
+                                ]
+                            },
+                            {
+                                "tag": "kinesiologists",
+                                "title": "Kinesiólogos",
+                                "items": [
+                                    {
+                                        "id": 9,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    },
+                                    {
+                                        "id": 10,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    },
+                                    {
+                                        "id": 11,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    },
+                                    {
+                                        "id": 12,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    }
+                                ]
+                            },
+                            {
+                                "tag": "cosmetologists",
+                                "title": "Cosmetólogas",
+                                "items": [
+                                    {
+                                        "id": 9,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    },
+                                    {
+                                        "id": 10,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    },
+                                    {
+                                        "id": 11,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    },
+                                    {
+                                        "id": 12,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    }
+                                ]
+                            },
+                            {
+                                "tag": "tens",
+                                "title": "Tens",
+                                "items": [
+                                    {
+                                        "id": 9,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    },
+                                    {
+                                        "id": 10,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    },
+                                    {
+                                        "id": 11,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    },
+                                    {
+                                        "id": 12,
+                                        "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/33ad.webp",
+                                        "name": "Nombre Apellido",
+                                        "role": "Cargo"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "infrastructure",
+                "data": {
+                    "infrastructure": {
+                        "title": "Infraestructura",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie.",
+                        "items": [
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/7145.webp",
+                                "tag": "Recepción"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/db22.webp",
+                                "tag": "Oficina"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/8f70.webp",
+                                "tag": "Sala de reuniones"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/e198.webp",
+                                "tag": "Cocina"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/7145.webp",
+                                "tag": "Terraza"
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/db22.webp",
+                                "tag": "Baño"
+                            }
+                        ]
+                    }
+                }
             }
         ]
-        
     }
 }
