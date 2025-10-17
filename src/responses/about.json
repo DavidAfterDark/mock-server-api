@@ -61,10 +61,16 @@
                                 "title": "Nuestra misión",
                                 "description": "Nuestra misión es ofrecer soluciones integrales y de vanguardia en medicina estética bajo los más altos estándares de calidad y profesionalismo."
                             },
-                            {
-                                "id": 1,
+                           {
+                                "id": 2,
                                 "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/syringe.svg",
                                 "title": "Nuestra misión 2",
+                                "description": "Nuestra misión es ofrecer soluciones integrales y de vanguardia en medicina estética bajo los más altos estándares de calidad y profesionalismo."
+                            },
+                            {
+                                "id": 3,
+                                "icon": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/icons/syringe.svg",
+                                "title": "Nuestra misión 3",
                                 "description": "Nuestra misión es ofrecer soluciones integrales y de vanguardia en medicina estética bajo los más altos estándares de calidad y profesionalismo."
                             }
                         ]
