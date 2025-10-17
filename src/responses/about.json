@@ -85,19 +85,19 @@
                         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie.",
                         "filter_tabs": [
                             {
-                                "value": 1,
+                                "value": "1",
                                 "title": "Especialidad_1"
                             },
                             {
-                                "value": 2,
+                                "value": "2",
                                 "title": "Especialidad_2"
                             },
                             {
-                                "value": 3,
+                                "value": "3",
                                 "title": "Especialidad_3"
                             },
                             {
-                                "value": 4,
+                                "value": "4",
                                 "title": "Especialidad_4"
                             }
                         ]
