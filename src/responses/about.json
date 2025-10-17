@@ -263,6 +263,41 @@
                         ]
                     }
                 }
+            },
+            {
+                "name": "equipment",
+                "data": {
+                    "equipment": {
+                        "title": "Equipamiento",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie.",
+                        "items": [
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/2120.webp",
+                                "description": "Lorem ipsum dolor sit amet, consectetur "
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/beb1.webp",
+                                "tag": "Lorem ipsum dolor sit amet, consectetur "
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/2120.webp",
+                                "tag": "Lorem ipsum dolor sit amet, consectetur "
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/beb1.webp",
+                                "tag": "Lorem ipsum dolor sit amet, consectetur "
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/2120.webp",
+                                "tag": "Lorem ipsum dolor sit amet, consectetur "
+                            },
+                            {
+                                "image": "https://7r5ld1cn-3000.use2.devtunnels.ms/assets/beb1.webp",
+                                "tag": "Lorem ipsum dolor sit amet, consectetur "
+                            }
+                        ]
+                    }
+                }
             }
         ]
     }
