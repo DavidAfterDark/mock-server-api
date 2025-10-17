@@ -34,6 +34,7 @@ import updatePassword from '@/routes/update-password'
 import updateImage from '@/routes/update-imagen'
 import updateProfile from '@/routes/update-profile'
 import about from '@/routes/about'
+import aboutDoctorsAndSpecialistsResponse from '@/routes/about-doctors-and-specialists-response'
 
 const app = express()
 const PORT = process.env.PORT || 3000
@@ -113,6 +114,8 @@ app.use('/update-image-profile', updateImage)
 app.use('/update-profile', updateProfile)
 
 app.use('/about', about)
+
+app.use('/about-doctors-and-specialists-response', aboutDoctorsAndSpecialistsResponse)
 
 // Welcome route
 app.get('/', (req: Request, res: Response) => {
