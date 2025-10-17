@@ -112,7 +112,7 @@
                         "description": "Conoce más sobre nuestro equipo de profesionales",
                         "tabs": [
                             {
-                                "tag": "secretaries",
+                                "value": "secretaries",
                                 "title": "Secretarias",
                                 "items": [
                                     {
@@ -142,7 +142,7 @@
                                 ]
                             },
                             {
-                                "tag": "kinesiologists",
+                                "value": "kinesiologists",
                                 "title": "Kinesiólogos",
                                 "items": [
                                     {
@@ -172,7 +172,7 @@
                                 ]
                             },
                             {
-                                "tag": "cosmetologists",
+                                "value": "cosmetologists",
                                 "title": "Cosmetólogas",
                                 "items": [
                                     {
@@ -202,7 +202,7 @@
                                 ]
                             },
                             {
-                                "tag": "tens",
+                                "value": "tens",
                                 "title": "Tens",
                                 "items": [
                                     {
