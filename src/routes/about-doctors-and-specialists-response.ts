@@ -4,7 +4,7 @@ import response from '@/responses/about-doctors-and-specialists-response.json'
 const router = Router()
 
 router.get('/', (req, res) => {
-  const { page, specialty, sortBy, search } = req.query
+  const { page, specialty } = req.query
 
   console.log('[about-doctors-and-specialists-response][query]:', { page, specialty })
 
