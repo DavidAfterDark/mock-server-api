@@ -15,7 +15,7 @@
                 "name": "Dr. Sergio Sepulveda",
                 "specialty": "Cirujano Plástico",
                 "button": {
-                    "title": "Agendar hora"
+                    "title": "ver más"
                 },
                 "modal_header_title": "Doctores y especialistas",
                 "schedule": [
@@ -23,6 +23,9 @@
                     "Viernes 9:00 a 16:00 hrs."
                 ],
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat ligula eget mi mattis, non fringilla massa sollicitudin. Sed laoreet magna nec posuere condimentum. Maecenas pulvinar hendrerit bibendum. Vivamus sed posuere eros, at tristique odio. Pellentesque imperdiet id nibh sed posuere. Vestibulum maximus, erat non volutpat condimentum, urna tellus rhoncus lacus, vel tristique felis metus vitae arcu. Quisque venenatis velit eu urna condimentum aliquet.",
+                "button_modal": {
+                    "title": "Agendar hora"
+                },
                 "schedule_url": "schedule_url"
             },
             {
@@ -39,6 +42,9 @@
                     "Viernes 9:00 a 16:00 hrs."
                 ],
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat ligula eget mi mattis, non fringilla massa sollicitudin. Sed laoreet magna nec posuere condimentum. Maecenas pulvinar hendrerit bibendum. Vivamus sed posuere eros, at tristique odio. Pellentesque imperdiet id nibh sed posuere. Vestibulum maximus, erat non volutpat condimentum, urna tellus rhoncus lacus, vel tristique felis metus vitae arcu. Quisque venenatis velit eu urna condimentum aliquet.",
+                "button_modal": {
+                    "title": "Agendar hora"
+                },
                 "schedule_url": "schedule_url"
             },
             {
@@ -55,6 +61,9 @@
                     "Viernes 9:00 a 16:00 hrs."
                 ],
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat ligula eget mi mattis, non fringilla massa sollicitudin. Sed laoreet magna nec posuere condimentum. Maecenas pulvinar hendrerit bibendum. Vivamus sed posuere eros, at tristique odio. Pellentesque imperdiet id nibh sed posuere. Vestibulum maximus, erat non volutpat condimentum, urna tellus rhoncus lacus, vel tristique felis metus vitae arcu. Quisque venenatis velit eu urna condimentum aliquet.",
+                "button_modal": {
+                    "title": "Agendar hora"
+                },
                 "schedule_url": "schedule_url"
             },
             {
@@ -71,6 +80,9 @@
                     "Viernes 9:00 a 16:00 hrs."
                 ],
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat ligula eget mi mattis, non fringilla massa sollicitudin. Sed laoreet magna nec posuere condimentum. Maecenas pulvinar hendrerit bibendum. Vivamus sed posuere eros, at tristique odio. Pellentesque imperdiet id nibh sed posuere. Vestibulum maximus, erat non volutpat condimentum, urna tellus rhoncus lacus, vel tristique felis metus vitae arcu. Quisque venenatis velit eu urna condimentum aliquet.",
+                "button_modal": {
+                    "title": "Agendar hora"
+                },
                 "schedule_url": "schedule_url"
             },
             {
@@ -87,6 +99,9 @@
                     "Viernes 9:00 a 16:00 hrs."
                 ],
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat ligula eget mi mattis, non fringilla massa sollicitudin. Sed laoreet magna nec posuere condimentum. Maecenas pulvinar hendrerit bibendum. Vivamus sed posuere eros, at tristique odio. Pellentesque imperdiet id nibh sed posuere. Vestibulum maximus, erat non volutpat condimentum, urna tellus rhoncus lacus, vel tristique felis metus vitae arcu. Quisque venenatis velit eu urna condimentum aliquet.",
+                "button_modal": {
+                    "title": "Agendar hora"
+                },
                 "schedule_url": "schedule_url"
             },
             {
@@ -103,6 +118,9 @@
                     "Viernes 9:00 a 16:00 hrs."
                 ],
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat ligula eget mi mattis, non fringilla massa sollicitudin. Sed laoreet magna nec posuere condimentum. Maecenas pulvinar hendrerit bibendum. Vivamus sed posuere eros, at tristique odio. Pellentesque imperdiet id nibh sed posuere. Vestibulum maximus, erat non volutpat condimentum, urna tellus rhoncus lacus, vel tristique felis metus vitae arcu. Quisque venenatis velit eu urna condimentum aliquet.",
+                "button_modal": {
+                    "title": "Agendar hora"
+                },
                 "schedule_url": "schedule_url"
             }
         ]
